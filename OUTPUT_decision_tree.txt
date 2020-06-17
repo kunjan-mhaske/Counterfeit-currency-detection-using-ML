@@ -1,0 +1,365 @@
+Loaded 1372 observations.
+Attributes Count: 4  and Classes: [0.0, 1.0]
+-------------------: Predictions Based on Majority Class :------------------
+Training Start......
+Total Points in class 0: 762
+Total Points in class 1: 610
+Majority Class: 0
+Total Testing Data Count: 1372
+CorrectCount: 762
+Accuracy: 55.539359 percent
+__________________________________________________________
+
+-------------------: Predictions Based on Random Outcome :------------------
+Original Class 0 count: 762
+Predicted Class 0 count: 1070
+
+Original Class 1 count: 610
+Predicted Class 1 count: 302
+
+Total Testing Data Count: 1372
+CorrectCount: 668
+Accuracy: 48.688047 percent
+__________________________________________________________
+
+-------------------: Predictions Based on Decision Tree :------------------
+Total 5 Reruns...
+Cross Validation for ratio 20:80 = training : testing data
+
+Traning data from 0 to 273
+Testing data from 0 to 0 and from 273 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 975
+Accuracy: 88.797814 percent
+__________________________________________________________
+
+Traning data from 274 to 547
+Testing data from 0 to 274 and from 547 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 975
+Accuracy: 88.797814 percent
+__________________________________________________________
+
+Traning data from 548 to 822
+Testing data from 0 to 548 and from 822 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1097
+CorrectCount: 989
+Accuracy: 90.154968 percent
+__________________________________________________________
+
+Traning data from 823 to 1096
+Testing data from 0 to 823 and from 1096 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1032
+Accuracy: 93.989071 percent
+__________________________________________________________
+
+Traning data from 1097 to 1371
+Testing data from 0 to 1097 and from 1371 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1097
+CorrectCount: 1062
+Accuracy: 96.809480 percent
+__________________________________________________________
+
+Cross Validation for ratio 20:80 = training : testing data
+
+Traning data from 0 to 273
+Testing data from 0 to 0 and from 273 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1075
+Accuracy: 97.905282 percent
+__________________________________________________________
+
+Traning data from 274 to 547
+Testing data from 0 to 274 and from 547 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1085
+Accuracy: 98.816029 percent
+__________________________________________________________
+
+Traning data from 548 to 822
+Testing data from 0 to 548 and from 822 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1097
+CorrectCount: 1084
+Accuracy: 98.814950 percent
+__________________________________________________________
+
+Traning data from 823 to 1096
+Testing data from 0 to 823 and from 1096 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1089
+Accuracy: 99.180328 percent
+__________________________________________________________
+
+Traning data from 1097 to 1371
+Testing data from 0 to 1097 and from 1371 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1097
+CorrectCount: 1085
+Accuracy: 98.906108 percent
+__________________________________________________________
+
+Cross Validation for ratio 20:80 = training : testing data
+
+Traning data from 0 to 273
+Testing data from 0 to 0 and from 273 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1085
+Accuracy: 98.816029 percent
+__________________________________________________________
+
+Traning data from 274 to 547
+Testing data from 0 to 274 and from 547 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1087
+Accuracy: 98.998179 percent
+__________________________________________________________
+
+Traning data from 548 to 822
+Testing data from 0 to 548 and from 822 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1097
+CorrectCount: 1096
+Accuracy: 99.908842 percent
+__________________________________________________________
+
+Traning data from 823 to 1096
+Testing data from 0 to 823 and from 1096 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1097
+Accuracy: 99.908925 percent
+__________________________________________________________
+
+Traning data from 1097 to 1371
+Testing data from 0 to 1097 and from 1371 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1097
+CorrectCount: 1097
+Accuracy: 100.000000 percent
+__________________________________________________________
+
+Cross Validation for ratio 20:80 = training : testing data
+
+Traning data from 0 to 273
+Testing data from 0 to 0 and from 273 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1089
+Accuracy: 99.180328 percent
+__________________________________________________________
+
+Traning data from 274 to 547
+Testing data from 0 to 274 and from 547 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1096
+Accuracy: 99.817851 percent
+__________________________________________________________
+
+Traning data from 548 to 822
+Testing data from 0 to 548 and from 822 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1097
+CorrectCount: 1095
+Accuracy: 99.817685 percent
+__________________________________________________________
+
+Traning data from 823 to 1096
+Testing data from 0 to 823 and from 1096 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1097
+Accuracy: 99.908925 percent
+__________________________________________________________
+
+Traning data from 1097 to 1371
+Testing data from 0 to 1097 and from 1371 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1097
+CorrectCount: 1096
+Accuracy: 99.908842 percent
+__________________________________________________________
+
+Cross Validation for ratio 20:80 = training : testing data
+
+Traning data from 0 to 273
+Testing data from 0 to 0 and from 273 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1041
+Accuracy: 94.808743 percent
+__________________________________________________________
+
+Traning data from 274 to 547
+Testing data from 0 to 274 and from 547 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1090
+Accuracy: 99.271403 percent
+__________________________________________________________
+
+Traning data from 548 to 822
+Testing data from 0 to 548 and from 822 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1097
+CorrectCount: 1096
+Accuracy: 99.908842 percent
+__________________________________________________________
+
+Traning data from 823 to 1096
+Testing data from 0 to 823 and from 1096 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1098
+CorrectCount: 1098
+Accuracy: 100.000000 percent
+__________________________________________________________
+
+Traning data from 1097 to 1371
+Testing data from 0 to 1097 and from 1371 to 1371
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1097
+CorrectCount: 1097
+Accuracy: 100.000000 percent
+__________________________________________________________
+
+Accuracies:  [[88.79781420765028, 88.79781420765028, 90.154968094804, 93.98907103825137, 96.8094804010939], [97.90528233151184, 98.81602914389799, 98.81494986326345, 99.18032786885246, 98.90610756608933], [98.81602914389799, 98.99817850637523, 99.90884229717412, 99.90892531876139, 100.0], [99.18032786885246, 99.81785063752277, 99.81768459434822, 99.90892531876139, 99.90884229717412], [94.80874316939891, 99.27140255009107, 99.90884229717412, 100.0, 100.0]]
+Average accuracy: 97.69705754890387
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Prediction for random single point in dataset:
+Testing Data: [array([ 3.2032 ,  5.7588 , -0.75345, -0.61251,  0.     ])]
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1
+CorrectCount: 1
+Accuracy: 100.000000 percent
+__________________________________________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Parsing whole data to Training and Testing :
+Training Start......
+Decision Tree Built.
+Training Done.
+
+Testing...
+Total Testing Data Count: 1372
+CorrectCount: 1372
+Accuracy: 100.000000 percent
+__________________________________________________________
+
+Process finished with exit code 0
